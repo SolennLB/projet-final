@@ -2,6 +2,7 @@
 Projet final- Formation Data Analyst
 
 🏨 Revenue Management – Optimisation des Réservations Hôtelières
+
 📌 Présentation du projet
 
 Ce projet a pour objectif d’analyser les réservations hôtelières afin d’optimiser la stratégie de Revenue Management et de réduire le risque d’annulation.
